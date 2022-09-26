@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Kyra Bauske
+description: MA, Senior Writinc Consultant, Editor and Design Specialist | Rollins College, UCF, Post Meridiem | Quote
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /GradPortfolioDemo #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/kyra-bauske/"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
