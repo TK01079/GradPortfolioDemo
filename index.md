@@ -7,8 +7,6 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Kyra has over 10 years of experience as a professional writer and editor. Employed by Rollins College and Post Meridiem, she provides a variety of editorial and creative skills with her work. She has professional credits as a copy-editor for the cookbook "Sweet Inclusion" by Katie Andrews as well as ghost-writing credits for private contractors. She is a trained technical editor, and holds two current technical writing and editing contracts while she pursues her Ph.D. Kyra heavily supports healthy work-life balance and incorporating the creative into the technical in a digital workspace. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Kyra has published a number of academic guides with the Rollins College Writing Center, where she holds a position as Senior Writing Consultant. Examples of her work can be found at the [Rollins Writing Cetner Website](https://www.rollins.edu/library/twc/resources.html)
