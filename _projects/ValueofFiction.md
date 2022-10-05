@@ -14,4 +14,4 @@ This work, a small comic inspired by the style of Scott McCloud seemed the best 
 ### On Genre Fiction
 For Dr. F, who assigned McCloud in Freshman year and put up with my long-winde oppinions on *Star Wars* for many, many years.
 
- ![Comic Page 1](/GradPortfolioDemo/assets/images/CriticalMaking Comic Pt1.jpg "Creative Comic 1")  ![Comic Page 2](/GradPortfolioDemo/assets/images/CriticalMaking Comic Pt2.jpg "Creative Comic 2")
+ ![Comic1](/GradPortfolioDemo/assets/images/CriticalMaking Comic Pt1.jpg "Creative Comic 1")  ![Comic2](/GradPortfolioDemo/assets/images/CriticalMaking Comic Pt2.jpg "Creative Comic 2")
