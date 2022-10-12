@@ -43,6 +43,7 @@ collections:
     order:
       - GamingasCollabFiction.md
       - ValueofFiction.md
+      - WritingResources.md
 
 sass:
   sass_dir: /assets/css/_sass
