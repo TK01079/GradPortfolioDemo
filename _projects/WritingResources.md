@@ -5,4 +5,4 @@ description: Copy created for students to use as supplements to their Writing Ce
 
 Kyra Bauske is a talented writer and writing tutor, regularly providing updated materials for the Rollins Writing center to use along with their other pedagogical tools for tutoring and writing consultations. The goal is always to give the students the tools they need to write or work through problems on their own. 
 
-See the resources [here](https://www.rollins.edu/library/twc/resources.html){:target="_blank"}.
+![writing](/GradPortfolioDemo/assets/images/ academic-writing-conventions.pdf "Writing Resource")  
