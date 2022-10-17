@@ -1,14 +1,21 @@
-Kyra Bauske, M.A.
+---
+layout: about
+permalink: /BauskeCV/
+title: CV
+published: true
+---
+
+# Kyra Bauske, M.A.
 
 Linkedin: \[insert\] Email: kbauske@knights.ucf.edu Website: \[insert\]
 
-# Education 
+## Education 
 
 > M.A., Master of Arts in Liberal Studies, Rollins College, 2022.
 >
 > B.A., Bachelor of Arts in English and Music, Rollins College, 2018.
 
-# Work Experience 
+## Work Experience 
 
 > Copywriting and Digital Design Specialist \| Contractor\
 > Post Meridiem, 2021 - Present
@@ -19,7 +26,7 @@ Linkedin: \[insert\] Email: kbauske@knights.ucf.edu Website: \[insert\]
 > Graphic Designer \| Contract\
 > Rollins Esports, 2022
 
-# Academic Positions
+## Academic Positions
 
 > Lead Tutor and Writing Consultant \| Rollins Writing Center\
 > Rollins College, 2017 - Present
@@ -36,7 +43,7 @@ Linkedin: \[insert\] Email: kbauske@knights.ucf.edu Website: \[insert\]
 > Writing & Management Intern \| Winter With The Writers\
 > Rollins College, 2018
 
-# Publications
+## Publications
 
 [Author]{.underline}
 
@@ -85,7 +92,7 @@ Linkedin: \[insert\] Email: kbauske@knights.ucf.edu Website: \[insert\]
 > Andrews, K. *Sweet Inclusion*. Bauske, Kyra ed. Cocoon Publishing,
 > 2019.
 
-# Workshops
+## Workshops
 
 > Bauske, K. (2022) \"Intro to the Writing Center.\" Rollins College,
 > January 2022
