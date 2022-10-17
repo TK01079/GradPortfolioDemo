@@ -7,7 +7,7 @@ published: true
 
 # Kyra Bauske, M.A.
 
-Linkedin: \[insert\] Email: kbauske@knights.ucf.edu Website: \[insert\]
+Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.edu 
 
 ## Education 
 
@@ -45,7 +45,7 @@ Linkedin: \[insert\] Email: kbauske@knights.ucf.edu Website: \[insert\]
 
 ## Publications
 
-[Author]{.underline}
+### Author
 
 > Bauske, K. \"[A Step-by-Step Guide to Writing
 > Introductions](https://www.rollins.edu/library/twc/intros-step-by-step.pdf)\"
@@ -79,7 +79,7 @@ Linkedin: \[insert\] Email: kbauske@knights.ucf.edu Website: \[insert\]
 > Process\"](https://www.rollins.edu/library/twc/understanding-the-writing-process.pdf)
 > *Rollins Writing Center,* Rollins College, 2021.
 >
-> [Editor]{.underline}
+> ### Editor
 >
 > Olin Library. \"Celebration of Faculty Scholarship 2021\" Walton,
 > Rachel and Kyra Bauske eds. Rollins Scholarship OnlineRollins College,
