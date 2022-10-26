@@ -12,7 +12,7 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 ## Education 
 
 > Ph.D., Doctorate of Text and Technology, University of Central Florida, In progress
->M.A., Master of Arts in Liberal Studies, Rollins College, 2022.
+> M.A., Master of Arts in Liberal Studies, Rollins College, 2022.
 > B.A., Bachelor of Arts in English and Music, Rollins College, 2018.
 
 ## Academic Positions
@@ -68,7 +68,7 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 > Process\"](https://www.rollins.edu/library/twc/understanding-the-writing-process.pdf)
 > *Rollins Writing Center,* Rollins College, 2021.
 >
-> ### Newsletters
+### Newsletters
 >
 > Olin Library. \"Celebration of Faculty Scholarship 2021\" Walton,
 > Rachel and Kyra Bauske eds. Rollins Scholarship OnlineRollins College,
@@ -78,7 +78,7 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 > Rachel and Kyra Bauske eds. *Rollins Scholarship Online*Rollins
 > College, 2020.
 
->### Book Publications
+### Book Publications
 
 > Andrews, K. *Sweet Inclusion*. Bauske, Kyra ed. Cocoon Publishing,
 > 2019.
