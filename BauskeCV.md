@@ -12,7 +12,9 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 ## Education 
 
 > Ph.D., Doctorate of Text and Technology, University of Central Florida, In progress
+
 > M.A., Master of Arts in Liberal Studies, Rollins College, 2022.
+
 > B.A., Bachelor of Arts in English and Music, Rollins College, 2018.
 
 ## Academic Positions
