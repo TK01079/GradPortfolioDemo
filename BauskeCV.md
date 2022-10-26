@@ -11,20 +11,9 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 
 ## Education 
 
-> M.A., Master of Arts in Liberal Studies, Rollins College, 2022.
->
+> Ph.D., Doctorate of Text and Technology, University of Central Florida, In progress
+>M.A., Master of Arts in Liberal Studies, Rollins College, 2022.
 > B.A., Bachelor of Arts in English and Music, Rollins College, 2018.
-
-## Work Experience 
-
-> Copywriting and Digital Design Specialist \| Contractor\
-> Post Meridiem, 2021 - Present
->
-> Copywriter and Designer \| Contractor\
-> Retro Talent Management, 2022 - Present
->
-> Graphic Designer \| Contract\
-> Rollins Esports, 2022
 
 ## Academic Positions
 
@@ -45,7 +34,7 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 
 ## Publications
 
-### Author
+### Acadenic Guides
 
 > Bauske, K. \"[A Step-by-Step Guide to Writing
 > Introductions](https://www.rollins.edu/library/twc/intros-step-by-step.pdf)\"
@@ -79,7 +68,7 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 > Process\"](https://www.rollins.edu/library/twc/understanding-the-writing-process.pdf)
 > *Rollins Writing Center,* Rollins College, 2021.
 >
-> ### Editor
+> ### Newsletters
 >
 > Olin Library. \"Celebration of Faculty Scholarship 2021\" Walton,
 > Rachel and Kyra Bauske eds. Rollins Scholarship OnlineRollins College,
@@ -88,7 +77,9 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 > Olin Library. \"Celebration of Faculty Scholarship 2020\" Walton,
 > Rachel and Kyra Bauske eds. *Rollins Scholarship Online*Rollins
 > College, 2020.
->
+
+>### Book Publications
+
 > Andrews, K. *Sweet Inclusion*. Bauske, Kyra ed. Cocoon Publishing,
 > 2019.
 
@@ -102,3 +93,14 @@ Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.e
 >
 > Bauske, K. (2021) \"Irish Dance Workshop.\" Perform Orlando Arts,
 > September, 2021
+
+## Additional Work Experience 
+
+> Copywriting and Digital Design Specialist \| Contractor\
+> Post Meridiem, 2021 - Present
+>
+> Copywriter and Designer \| Contractor\
+> Retro Talent Management, 2022 - Present
+>
+> Graphic Designer \| Contract\
+> Rollins Esports, 2022
