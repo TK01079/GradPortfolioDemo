@@ -7,18 +7,13 @@ published: true
 
 
 **Expert level (8+ years of experience):** 
-Copy-editing, line-editing,
-proofreading, resume writing, CV writing, research writing, creating
-copy, technical writing, technical editing, technical communication,
-MLA, Chicago Manual of Style, APA, creative writing, time management,
-Microsoft Office, Google Suite, interpersonal communication, marketing
-writing, PR writing.
+*Copy-editing, line-editing, proofreading, resume writing, CV writing, research writing, creating copy, technical writing, technical editing, technical communication, MLA, Chicago Manual of Style, APA, creative writing, time management, Microsoft Office, Google Suite, interpersonal communication, marketing writing, PR writing.*
 
 **Intermediate level (3-4 years experience):** 
-Foreign language: Latin &
-Spanish, SEO, Wordpress, Wix, Adobe Design Suite, Canva.
+*Foreign language: Latin & Spanish, SEO, Wordpress, Wix, Adobe Design Suite, Canva.*
 
 ## Work Experience ##
+
 
 ### Post Meridiem, Denver, CO | *Contract Copy Editor, Copy Writer, & Digital Designer*
 
@@ -99,13 +94,13 @@ Writing Program.
 
 
 ***Writer and Designer:*** 
-- "[Understanding the Writing Process](https://www.rollins.edu/library/twc/understanding-the-writing-process.pdf),"
-- "[CommaBasics](https://www.rollins.edu/library/twc/comma-basics.pdf),"
-- "[Academic Writing Conventions](https://www.rollins.edu/library/twc/academic-writing-conventions.pdf),"
-- "[Argumentative vs Research Writing](https://www.rollins.edu/library/twc/argumentative-vs-research-papers.pdf),"
-- "[Argumentative Essays](https://www.rollins.edu/library/twc/argumentative-essay.pdf),"
-- "[Research Essays](https://www.rollins.edu/library/twc/research-essays.pdf),"
-- "[Literature Reviews](https://www.rollins.edu/library/twc/literature-reviews.pdf),"
+- "[Understanding the Writing Process](https://www.rollins.edu/library/twc/understanding-the-writing-process.pdf)"
+- "[CommaBasics](https://www.rollins.edu/library/twc/comma-basics.pdf)"
+- "[Academic Writing Conventions](https://www.rollins.edu/library/twc/academic-writing-conventions.pdf)"
+- "[Argumentative vs Research Writing](https://www.rollins.edu/library/twc/argumentative-vs-research-papers.pdf)"
+- "[Argumentative Essays](https://www.rollins.edu/library/twc/argumentative-essay.pdf)"
+- "[Research Essays](https://www.rollins.edu/library/twc/research-essays.pdf)"
+- "[Literature Reviews](https://www.rollins.edu/library/twc/literature-reviews.pdf)"
 Published by Rollins College, 2021
 
 - "[A Step-by-Step Guide to Writing Introductions](https://www.rollins.edu/library/twc/intros-step-by-step.pdf)"
