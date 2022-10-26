@@ -5,7 +5,7 @@ title: CV
 published: true
 ---
 
-# Kyra Bauske, M.A.
+# Writer, Editor, and Digital Designer
 
 Linkedin: https://www.linkedin.com/in/kyra-bauske/  Email: kbauske@knights.ucf.edu 
 
